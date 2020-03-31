@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Angular Material Snippets",
+		"AngularJS",
+		"AngularZen",
+		"Bootstrap 4 Autocomplete",
+		"Bootstrap 4 Snippets",
+		"BracketHighlighter",
+		"CSS Unminifier",
+		"EasyMotion",
+		"EditorConfig",
+		"Git",
+		"Ionic 2",
+		"Ionic Framework Snippets",
+		"Laravel 5 Snippets",
+		"Laravel Blade AutoComplete",
+		"Laravel Blade Highlighter",
+		"Laravel Blade Spacer",
+		"Material Theme",
+		"Package Control",
+		"Phpcs",
+		"Pretty JSON",
+		"SCSS",
+		"SublimeLinter-phplint",
+		"TypeScript"
+	]
+}

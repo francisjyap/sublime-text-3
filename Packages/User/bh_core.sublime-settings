@@ -1,0 +1,5 @@
+{
+	"popup_char_context": 1024,
+    "popup_line_context": 32,
+    "search_threshold": 10000,
+}
